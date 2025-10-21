@@ -1,0 +1,138 @@
+          {
+                author: "Sappho",
+                poem: "Fragment 31",
+                excerpts: {
+                    greek: "φαίνεταί μοι κῆνος ἴσος θέοισίν, ἔμμεν᾿ ὤνηρ ὄττις ἐνάντιός τοι ἰσδάνει· καὶ πλάσιον ἆδυ φωνείσας ὐπακούει· καὶ γελαίσας ἰμέροεν, τό μ᾿ ἦ μὰν καρδίαν ἐν στῆθεσιν ἐπτόαισεν.",
+                    english: "He seems to me that man equal to the gods who sits opposite you and close by listens to your sweet voice; and when you smile, longing seizes my heart in my chest.",
+                    spanish: "Me parece que ese hombre, igual a los dioses, que frente a ti se sienta y cerca escucha tu dulce voz; y cuando sonríes, el deseo asalta mi corazón en el pecho."
+                }
+            },
+            {
+                author: "Sappho",
+                poem: "Fragment 31 (continued)",
+                excerpts: {
+                    greek: "ὠς γὰρ ἔς σ᾿ ἴδω βρόχε᾿, ὤς με φώναισ᾿ οὐδὲν ἔτ᾿ εἴκει· ἀλλὰ κὰμ μὲν γλῶσσα ἔαγε, λέπτον δ᾿ αὔτικα χρῶι πῦρ ὐπαδεδρόμηκεν.",
+                    english: "For when I look at you even a short while, speech fails me; my tongue is broken, fire suddenly races under my skin.",
+                    spanish: "Porque cuando te miro aunque sea un instante, me falta la palabra; mi lengua se quiebra, fuego de pronto corre bajo mi piel."
+                }
+            },
+            {
+                author: "Gustavo Adolfo Bécquer",
+                poem: "Rima LIII",
+                excerpts: {
+                    spanish: "Volverán las oscuras golondrinas en tu balcón sus nidos a colgar, y, otra vez, con el ala a sus cristales jugando llamarán.",
+                    english: "The dark swallows will return to hang their nests on your balcony, and again, with their wings playing against your panes, they will call."
+                }
+            },
+            {
+                author: "Gustavo Adolfo Bécquer",
+                poem: "Rima LIII (continued)",
+                excerpts: {
+                    spanish: "Mas no volverán aquellas otras, ni será igual nuestro amor.",
+                    english: "But those other ones will not return, nor will our love be the same."
+                }
+            },
+            {
+                author: "Dante Alighieri",
+                poem: "Inferno, Canto I",
+                excerpts: {
+                    italian: "Nel mezzo del cammin di nostra vita mi ritrovai per una selva oscura, ché la diritta via era smarrita.",
+                    english: "Midway upon the journey of our life I found myself within a dark wood, for the straight way had been lost.",
+                    spanish: "A mitad del camino de nuestra vida me encontré en un bosque oscuro, porque se había perdido el camino recto."
+                }
+            },
+            {
+                author: "Dante Alighieri",
+                poem: "Inferno, Canto I (continued)",
+                excerpts: {
+                    italian: "Ahi quanto a dir qual era è cosa dura esta selva selvaggia e aspra e forte che nel pensier rinova la paura!",
+                    english: "Ah, how hard it is to tell what that wood was—wild, rough, and harsh, that its memory renews the fear!",
+                    spanish: "¡Ay, cuán difícil es decir cómo era ese bosque—salvaje, áspero y duro, cuya memoria renueva el temor!"
+                }
+            },
+            {
+                author: "Dante Alighieri",
+                poem: "Inferno, Canto III",
+                excerpts: {
+                    italian: "Per me si va ne la città dolente, per me si va ne l'etterno dolore, per me si va tra la perduta gente.",
+                    english: "Through me the way into the suffering city; through me the way to the eternal pain; through me the way among the lost.",
+                    spanish: "Por mí se va a la ciudad doliente; por mí se va al eterno dolor; por mí se va entre la gente perdida."
+                }
+            },
+            {
+                author: "Al-Mutanabbi",
+                poem: "Ode to Sayf al-Dawla",
+                excerpts: {
+                    english: "The steeds, the night, and the desert know me, and the sword, the spear, the paper and the pen.",
+                    spanish: "Los corceles, la noche y el desierto me conocen, y la espada, la lanza, el papel y la pluma."
+                }
+            },
+            {
+                author: "Al-Mutanabbi",
+                poem: "Pride of the Poet",
+                excerpts: {
+                    english: "I am he whose verse made the blind look, and whose words made the deaf hear.",
+                    spanish: "Soy aquel cuyos versos hicieron mirar al ciego, y cuyas palabras hicieron oír al sordo."
+                }
+            },
+            {
+                author: "Yunus Emre",
+                poem: "Bana Seni Gerek Seni",
+                excerpts: {
+                    turkish: "Bana seni gerek seni, gönlüm seni gerek seni, Geceler gündüzlerim, sendedir ağlıyan gönlüm, Seni sevdim, işte niçin ben yandım, Seni sevdim, işte niçin ben öldüm.",
+                    english: "I need you, only you; my heart needs you—my nights and my days are yours, my weeping heart; I loved you, that is why I burned, I loved you, that is why I died.",
+                    spanish: "Te necesito, sólo a ti; mi corazón te necesita—mis noches y mis días son tuyos, mi corazón que llora; te amé, por eso ardí, te amé, por eso morí."
+                }
+            },
+            {
+                author: "Yunus Emre",
+                poem: "Gelin Ben Ağlarım",
+                excerpts: {
+                    turkish: "Gelin ben ağlarım, sensiz geceler meyan, Düşmanım yokmu dünyada, beni öldüren seni san, Gönül ne gezer bilmem, sensiz ben bir hiç olurum.",
+                    english: "Come, I weep—without you the nights are bitter; have I no enemy in the world? You who kill me; my heart wanders and without you I am nothing.",
+                    spanish: "Ven, lloro—sin ti las noches son amargas; ¿no tengo enemigo en el mundo? Tú que me matas; mi corazón vaga y sin ti no soy nada."
+                }
+            },
+            {
+                author: "C.P. Cavafy",
+                poem: "Thermopylae",
+                excerpts: {
+                    greek: "Ἄνδρες εἰσὶν οἳ πρὸς ὅτου κὰν ἔλθοιεν ἀνάγκη, οἳ μὲν δοκέουσι καὶ λέγουσιν· ἔργ᾿ ὅδε ὅστις ἔργον ἔχει, ὁ μὲν ἔργον ἔχει, ἐν δὲ τῇ ψυχῇ σιωπᾷ.",
+                    english: "Men are those who, when necessity comes, seem to say: this is a deed that has deed; one has deed, while in the soul there is silence.",
+                    spanish: "Hay hombres que, cuando la necesidad llega, parecen decir: esto es una obra que tiene obra; uno tiene obra, mientras en el alma hay silencio."
+                }
+            },
+            {
+                author: "C.P. Cavafy",
+                poem: "The God Abandons Antony",
+                excerpts: {
+                    greek: "Χαῖρε, θεά, γλῶσσά μου, ὡς ἐγὼ σε λείψω, ἔτι χρὴ μοι μαίνεσθαι, ἀλλὰ πῶς σὲ λέξω;",
+                    english: "Hail, my tongue; though I forsake you, I must still be crazy for her—how else shall I speak of you?",
+                    spanish: "Alegría, lengua mía; aunque te abandone, debo aún enloquecer por ella—¿cómo podría hablar de ti?"
+                }
+            },
+            {
+                author: "Gustavo Adolfo Bécquer",
+                poem: "Rima LIII (closing)",
+                excerpts: {
+                    spanish: "Volverán a tu ventana otras flores y otros ramos, y otro será el perfume en la brisa cuando pase el tiempo.",
+                    english: "Other flowers and different bouquets will return to your window, and another scent will ride the breeze as time passes."
+                }
+            },
+            {
+                author: "Archilochus",
+                poem: "Fragment 114",
+                excerpts: {
+                    greek: "σε μὲν ἔγωγε ἔχθρα κεκρυμμένη, ἐγὼ δ᾿ ἀποδίδωμι φίλην, ὅπερ ἐθέλω",
+                    english: "I harbor a hidden hatred, yet I return love as I will; I give what I wish.",
+                    spanish: "Guardo un odio oculto, y sin embargo devuelvo amor a mi modo; doy lo que quiero."
+                }
+            },
+            {
+                author: "Mahmoud Darwish",
+                poem: "If It Were Not for Love",
+                excerpts: {
+                    english: "Were it not for beloved ones I would fear desire and my soul would dwell in distant shade; yet their love quenched within me the sleep of fear.",
+                    spanish: "Si no fuera por los amados temería el deseo y mi alma viviría en una sombra lejana; mas su amor extinguió en mí el sueño del temor."
+                }
+            }
