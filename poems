@@ -140,7 +140,63 @@
             "english": "Were it not for beloved ones I would fear desire and my soul would dwell in distant shade; yet their love quenched within me the sleep of fear.",
             "spanish": "Si no fuera por los amados temería el deseo y mi alma viviría en una sombra lejana; mas su amor extinguió en mí el sueño del temor."
         }
+    },
+[
+    {
+        "author": "Sappho",
+        "poem": "Fragment 31 (complete fragment)",
+        "excerpts": {
+            "greek": "φαίνεταί μοι κῆνος ἴσος θέοισιν, ἔμμεν᾿ ὤνηρ ὄττις ἐναντίος τοι ἰσδάνει καὶ πλάσιον ἆδυ φωνείσας ὐπακούει καὶ γελαίσας ἰμέροεν, τό μ᾿ ἦ μὰν καρδίαν ἐν στήθεσιν ἐπτόαισεν· ὠς γὰρ ἔς σ᾿ ἴδω βρόχε᾿, ὤς με φώναισ᾿ οὐδὲν ἔτ᾿ εἴκει· ἀλλὰ κὰμ μὲν γλῶσσα ἔαγε, λέπτον δ᾿ αὔτικα χρῶι πῦρ ὐπαδεδρόμηκεν, ὀππάτεσσι δ᾿ οὐδὲν ὄρημμ᾿, ἐπιρρόμβεισι δ᾿ ἄκουαι, καδ δέ μ᾿ ἴδρως κακχέεται, τρόμος δὲ παίσαν ἄγρει, χλωροτέρα δὲ ποίας ἔμμι, τεθνάκην δ᾿ ὀλίγω ᾿πιδεύης φαίνομ᾿ ἔμ᾿ αὔτᾳ.",
+            "english": "He seems to me equal to the gods, that man who sits across from you and listens to your sweet voice and lovely laughter— which makes my heart flutter in my chest. For when I look at you even a short while, speech fails me; my tongue is broken, fire suddenly races under my skin, my eyes see nothing, my ears hum, sweat pours down me, trembling seizes me, I am paler than grass and I seem near to dying.",
+            "spanish": "Aquel hombre me parece igual a los dioses, el que frente a ti se sienta y escucha tu dulce voz y tu risa encantadora, que agita mi corazón en el pecho. Porque cuando te miro aunque sea un instante, me falta la palabra; mi lengua se quiebra, fuego de pronto corre bajo mi piel, mis ojos no ven nada, mis oídos zumban, el sudor me cubre, el temblor me vence, y estoy más pálida que la hierba, a punto de morir."
+        }
+    },
+    {
+        "author": "C.P. Cavafy",
+        "poem": "Ithaka",
+        "excerpts": {
+            "greek": "Σα βγεις στον πηγαιμό για την Ιθάκη, να εύχεσαι νάναι μακρύς ο δρόμος, γεμάτος περιπέτειες, γεμάτος γνώσεις. Τους Λαιστρυγόνες και τους Κύκλωπες, τον θυμωμένο Ποσειδώνα μη φοβάσαι· τέτοια στον δρόμο σου ποτέ σου δεν θα βρεις, αν μένει η σκέψις σου υψηλή, αν εκλεκτή συγκίνησις το πνεύμα και το σώμα σου αγγίζει.",
+            "english": "As you set out for Ithaka, hope your road is a long one, full of adventure, full of discovery. Laistrygonians, Cyclops, angry Poseidon—don’t be afraid of them: you’ll never find things like that on your way as long as you keep your thoughts raised high, as long as a rare excitement stirs your spirit and your body.",
+            "spanish": "Cuando emprendas tu viaje a Ítaca, pide que el camino sea largo, lleno de aventuras, lleno de experiencias. A los Lestrigones y los Cíclopes, al airado Poseidón, no temas: tales seres jamás hallarás en tu camino si tu pensamiento se mantiene alto y una exquisita emoción toca tu espíritu y tu cuerpo."
+        }
+    },
+    {
+        "author": "Eugenio Montale",
+        "poem": "The Eel (L’anguilla)",
+        "excerpts": {
+            "italian": "L’anguilla, la sirena dei mari freddi che lascia il Baltico per giungere ai nostri mari, ai nostri estuari, ai nostri fiumi... La sorella dei nati dalla schiuma, dei nati nel fango, che risale i torrenti, le risorgive, le sabbie che si disseccano, e muove verso la vita ancora una volta, verso il calore, verso un nuovo giorno.",
+            "english": "The eel, the siren of cold seas, leaves the Baltic to reach our seas, our estuaries, our rivers... the sister of those born from foam, from mud, who ascends the streams and springs and drying sands, moving once more toward life, toward warmth, toward another day.",
+            "spanish": "La anguila, la sirena de los mares fríos, que deja el Báltico para llegar a nuestros mares, a nuestros estuarios, a nuestros ríos... la hermana de los nacidos de la espuma, de los nacidos del barro, que remonta los arroyos, las fuentes, las arenas que se secan, y se mueve una vez más hacia la vida, hacia el calor, hacia un nuevo día."
+        }
+    },
+    {
+        "author": "Federico García Lorca",
+        "poem": "Romance Sonámbulo (excerpt)",
+        "excerpts": {
+            "spanish": "Verde que te quiero verde. Verde viento. Verdes ramas. El barco sobre la mar y el caballo en la montaña. Con la sombra en la cintura ella sueña en su baranda, verde carne, pelo verde, con ojos de fría plata.",
+            "english": "Green, how I want you green. Green wind, green branches. The ship upon the sea, the horse on the mountain. With the shadow at her waist she dreams on her balcony, green flesh, green hair, with eyes of cool silver.",
+            "french": "Vert, comme je t’aime vert. Vent vert. Branches vertes. Le bateau sur la mer et le cheval dans la montagne. Avec l’ombre à la taille elle rêve sur son balcon, chair verte, cheveux verts, yeux d’argent froid."
+        }
+    },
+    {
+        "author": "Nazım Hikmet",
+        "poem": "On Living (Yaşamaya Dair, excerpt)",
+        "excerpts": {
+            "turkish": "Yaşamak şakaya gelmez, büyük bir ciddiyetle yaşayacaksın bir sincap gibi mesela, yani, yaşamanın dışında ve ötesinde hiçbir şey beklemeden, yani bütün işin gücün yaşamak olacak.",
+            "english": "Living is no laughing matter: you must live with great seriousness like a squirrel, for example—expecting nothing beyond and above living, that is, your whole work will be to live.",
+            "spanish": "Vivir no es cosa de juego: debes vivir con gran seriedad, como una ardilla, por ejemplo, sin esperar nada fuera o más allá de la vida; es decir, todo tu trabajo será vivir."
+        }
+    },
+    {
+        "author": "Khalil Gibran",
+        "poem": "The Prophet (On Joy and Sorrow)",
+        "excerpts": {
+            "arabic": "إنما الحزن يحفر في قلوبكم بقدر ما تملؤها السعادة. أليس الكأس التي تشربون منها هي نفسها التي احترق فرن الفخاري ليصنعها؟",
+            "english": "The deeper that sorrow carves into your being, the more joy you can contain. Is not the cup that holds your wine the very cup that was burned in the potter’s oven?",
+            "spanish": "Cuanto más hondo cava el dolor en vuestro ser, más alegría podréis contener. ¿No es la copa que guarda vuestro vino la misma que fue quemada en el horno del alfarero?"
+        }
     }
+]
 ],
 
 "fonts":
