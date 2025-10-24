@@ -191,7 +191,53 @@
         "english": "The deeper that sorrow carves into your being, the more joy you can contain. Is not the cup that holds your wine the very cup that was burned in the potter’s oven?",
         "spanish": "Cuanto más hondo cava el dolor en vuestro ser, más alegría podréis contener. ¿No es la copa que guarda vuestro vino la misma que fue quemada en el horno del alfarero?"
       }
+    },
+    {
+        "author": "George Seferis",
+        "poem": "Mythistorema (excerpt, XXII)",
+        "excerpts": {
+            "greek": "Όπου κι αν ταξιδέψω η Ελλάδα με πληγώνει. Για τα πεύκα του βουνού και τη θάλασσα στις μικρές της κόλπους, για τις παλιές πέτρες και τα νέα παιδιά που κοιτάζουν με μάτια ξένα.",
+            "english": "Wherever I travel, Greece wounds me. For the pines on the mountain and the sea in her small coves, for the old stones and the young children who look at me with foreign eyes.",
+            "spanish": "Dondequiera que viaje, Grecia me hiere. Por los pinos de la montaña y el mar en sus pequeñas calas, por las piedras antiguas y los niños jóvenes que me miran con ojos extraños."
+        }
+    },
+    {
+        "author": "Odysseas Elytis",
+        "poem": "The Monogram (excerpt)",
+        "excerpts": {
+            "greek": "Να μ᾽αγαπάς. Δεν ξέρω άλλο δρόμο για να υπάρχω. Όταν η θάλασσα ξυπνάει μέσα μου, η φωνή σου γίνεται φως. Και το φως, αιωνιότητα.",
+            "english": "Love me. I know no other way to exist. When the sea awakens inside me, your voice becomes light. And that light, eternity.",
+            "spanish": "Ámame. No conozco otro modo de existir. Cuando el mar despierta dentro de mí, tu voz se vuelve luz. Y esa luz, eternidad."
+        }
+    },
+    {
+        "author": "Paul Valéry",
+        "poem": "Le Cimetière marin (excerpt)",
+        "excerpts": {
+            "french": "La mer, la mer, toujours recommencée! Ô récompense après une pensée qu’un long regard sur le calme des dieux!",
+            "english": "The sea, the sea, forever beginning anew! O reward after a thought — that long gaze upon the calm of the gods!",
+            "spanish": "¡El mar, el mar, siempre recomenzando! ¡Oh recompensa tras el pensamiento, esa larga mirada sobre la calma de los dioses!"
+        }
+    },
+    {
+        "author": "Adonis (Ali Ahmad Said Esber)",
+        "poem": "A Grave for New York (excerpt)",
+        "excerpts": {
+            "arabic": "البحر لا ذاكرة له، لكنه يتذكر كل ما غرق فيه. الكلمات مثل الموج، تولد وتموت على الشاطئ نفسه.",
+            "english": "The sea has no memory, yet it remembers all that sinks within it. Words are like waves, born and dying upon the same shore.",
+            "spanish": "El mar no tiene memoria, pero recuerda todo lo que se hunde en él. Las palabras son como las olas, nacen y mueren en la misma orilla."
+        }
+    },
+    {
+        "author": "Yehuda Amichai",
+        "poem": "A Man in His Life",
+        "excerpts": {
+            "hebrew": "אדם אינו צריך להיות רחמים כל ימיו, אדם צריך להיות רק אדם. בים התיכון יש מקום לכולם, לאבנים, לדגים, ולספינות של געגוע.",
+            "english": "A man doesn’t have to be merciful all his life, he only has to be a man. In the Mediterranean there is room for everyone — stones, fish, and ships of longing.",
+            "spanish": "Un hombre no tiene que ser compasivo toda su vida, sólo tiene que ser un hombre. En el Mediterráneo hay espacio para todos: piedras, peces y barcos de añoranza."
+        }
     }
+
   ],
   "fonts": {
     "astrology": {
