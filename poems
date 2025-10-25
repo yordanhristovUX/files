@@ -1,7 +1,7 @@
 {
   "poems": [
     {
-      "author": "Sappho",
+      "author": "Sappho .",
       "poem": "Fragment 31",
       "excerpts": {
         "greek": "φαίνεταί μοι κῆνος ἴσος θέοισίν, ἔμμεν᾿ ὤνηρ ὄττις ἐνάντιός τοι ἰσδάνει· καὶ πλάσιον ἆδυ φωνείσας ὐπακούει· καὶ γελαίσας ἰμέροεν, τό μ᾿ ἦ μὰν καρδίαν ἐν στῆθεσιν ἐπτόαισεν.",
@@ -10,7 +10,7 @@
       }
     },
     {
-      "author": "Sappho",
+      "author": "Sappho . .",
       "poem": "Fragment 31 (continued)",
       "excerpts": {
         "greek": "ὠς γὰρ ἔς σ᾿ ἴδω βρόχε᾿, ὤς με φώναισ᾿ οὐδὲν ἔτ᾿ εἴκει· ἀλλὰ κὰμ μὲν γλῶσσα ἔαγε, λέπτον δ᾿ αὔτικα χρῶι πῦρ ὐπαδεδρόμηκεν.",
@@ -27,7 +27,7 @@
       }
     },
     {
-      "author": "Gustavo Adolfo Bécquer",
+      "author": "Gustavo Adolfo Bécquer .",
       "poem": "Rima LIII (continued)",
       "excerpts": {
         "spanish": "Mas no volverán aquellas otras, ni será igual nuestro amor.",
@@ -35,7 +35,7 @@
       }
     },
     {
-      "author": "Dante Alighieri",
+      "author": "Dante Alighieri . .",
       "poem": "Inferno, Canto I",
       "excerpts": {
         "italian": "Nel mezzo del cammin di nostra vita mi ritrovai per una selva oscura, ché la diritta via era smarrita.",
@@ -44,7 +44,7 @@
       }
     },
     {
-      "author": "Dante Alighieri",
+      "author": "Dante Alighieri .",
       "poem": "Inferno, Canto I (continued)",
       "excerpts": {
         "italian": "Ahi quanto a dir qual era è cosa dura esta selva selvaggia e aspra e forte che nel pensier rinova la paura!",
@@ -53,7 +53,7 @@
       }
     },
     {
-      "author": "Dante Alighieri",
+      "author": "Dante Alighieri . . .",
       "poem": "Inferno, Canto III",
       "excerpts": {
         "italian": "Per me si va ne la città dolente, per me si va ne l'etterno dolore, per me si va tra la perduta gente.",
@@ -70,7 +70,7 @@
       }
     },
     {
-      "author": "Al-Mutanabbi",
+      "author": "Al-Mutanabbi .",
       "poem": "Pride of the Poet",
       "excerpts": {
         "english": "I am he whose verse made the blind look, and whose words made the deaf hear.",
@@ -87,7 +87,7 @@
       }
     },
     {
-      "author": "Yunus Emre",
+      "author": "Yunus Emre .",
       "poem": "Gelin Ben Ağlarım",
       "excerpts": {
         "turkish": "Gelin ben ağlarım, sensiz geceler meyan, Düşmanım yokmu dünyada, beni öldüren seni san, Gönül ne gezer bilmem, sensiz ben bir hiç olurum.",
@@ -105,7 +105,7 @@
       }
     },
     {
-      "author": "C.P. Cavafy",
+      "author": "C.P. Cavafy .",
       "poem": "The God Abandons Antony",
       "excerpts": {
         "greek": "Χαῖρε, θεά, γλῶσσά μου, ὡς ἐγὼ σε λείψω, ἔτι χρὴ μοι μαίνεσθαι, ἀλλὰ πῶς σὲ λέξω;",
@@ -139,7 +139,7 @@
       }
     },
     {
-      "author": "Sappho",
+      "author": "Sappho . . .",
       "poem": "Fragment 31 (complete fragment)",
       "excerpts": {
         "greek": "φαίνεταί μοι κῆνος ἴσος θέοισιν, ἔμμεν᾿ ὤνηρ ὄττις ἐναντίος τοι ἰσδάνει καὶ πλάσιον ἆδυ φωνείσας ὐπακούει καὶ γελαίσας ἰμέροεν, τό μ᾿ ἦ μὰν καρδίαν ἐν στήθεσιν ἐπτόαισεν· ὠς γὰρ ἔς σ᾿ ἴδω βρόχε᾿, ὤς με φώναισ᾿ οὐδὲν ἔτ᾿ εἴκει· ἀλλὰ κὰμ μὲν γλῶσσα ἔαγε, λέπτον δ᾿ αὔτικα χρῶι πῦρ ὐπαδεδρόμηκεν, ὀππάτεσσι δ᾿ οὐδὲν ὄρημμ᾿, ἐπιρρόμβεισι δ᾿ ἄκουαι, καδ δέ μ᾿ ἴδρως κακχέεται, τρόμος δὲ παίσαν ἄγρει, χλωροτέρα δὲ ποίας ἔμμι, τεθνάκην δ᾿ ὀλίγω ᾿πιδεύης φαίνομ᾿ ἔμ᾿ αὔτᾳ.",
@@ -148,7 +148,7 @@
       }
     },
     {
-      "author": "C.P. Cavafy",
+      "author": "C.P. Cavafy . . .",
       "poem": "Ithaka",
       "excerpts": {
         "greek": "Σα βγεις στον πηγαιμό για την Ιθάκη, να εύχεσαι νάναι μακρύς ο δρόμος, γεμάτος περιπέτειες, γεμάτος γνώσεις. Τους Λαιστρυγόνες και τους Κύκλωπες, τον θυμωμένο Ποσειδώνα μη φοβάσαι· τέτοια στον δρόμο σου ποτέ σου δεν θα βρεις, αν μένει η σκέψις σου υψηλή, αν εκλεκτή συγκίνησις το πνεύμα και το σώμα σου αγγίζει.",
