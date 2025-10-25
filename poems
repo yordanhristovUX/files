@@ -236,6 +236,33 @@
             "english": "A man doesn’t have to be merciful all his life, he only has to be a man. In the Mediterranean there is room for everyone — stones, fish, and ships of longing.",
             "spanish": "Un hombre no tiene que ser compasivo toda su vida, sólo tiene que ser un hombre. En el Mediterráneo hay espacio para todos: piedras, peces y barcos de añoranza."
         }
+    },
+{
+        "author": "Dante Alighieri",
+        "poem": "Divine Comedy, Paradiso (Canto I, excerpt)",
+        "excerpts": {
+            "italian": "La gloria di colui che tutto move per l’universo penetra, e risplende in una parte più e meno altrove. Nel ciel che più de la sua luce prende fu’ io, e vidi cose che ridire né sa né può chi di là sù discende.",
+            "english": "The glory of Him who moves all things pervades the universe and shines in one part more and in another less. I was in that heaven which most receives His light, and I saw things which he who descends from there cannot tell or comprehend.",
+            "spanish": "La gloria de Aquel que todo mueve penetra el universo y resplandece más en unas partes que en otras. Estuve en aquel cielo que más recibe su luz, y vi cosas que quien desciende de allí arriba no sabe ni puede decir."
+        }
+    },
+    {
+        "author": "Tahar Ben Jelloun",
+        "poem": "The Sand Child (excerpt)",
+        "excerpts": {
+            "french": "La mer, au loin, semblait un livre ouvert. Chaque vague était une phrase, chaque écume un souvenir que la mémoire du sable effaçait.",
+            "english": "The sea, in the distance, looked like an open book. Each wave was a sentence, each foam a memory that the sand’s memory erased.",
+            "spanish": "El mar, a lo lejos, parecía un libro abierto. Cada ola era una frase, cada espuma un recuerdo que la memoria de la arena borraba."
+        }
+    },
+    {
+        "author": "Seferis (additional)",
+        "poem": "Helen (excerpt)",
+        "excerpts": {
+            "greek": "Τ’ αγάλματα είναι στο μουσείο· κανείς δεν τα θυμάται. Η Ελένη ζει ακόμα στα μάτια των θαλασσινών, στα όνειρα των ναυτών που χάθηκαν.",
+            "english": "The statues are in the museum; no one remembers them. Helen still lives in the eyes of sailors, in the dreams of those who were lost at sea.",
+            "spanish": "Las estatuas están en el museo; nadie las recuerda. Helena vive aún en los ojos de los marineros, en los sueños de los que se perdieron en el mar."
+        }
     }
 
   ],
